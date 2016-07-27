@@ -33,7 +33,7 @@ while true; do
     printf "${ORANGE}"
   elif [ $MINS == 14 ]; then
     printf "${RED}"
-  elif [ $MINS == 17 ]; then 
+  elif [ $MINS == 16 ]; then 
     printf "${NNC}"
     exit
   fi
